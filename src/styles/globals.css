@@ -3,9 +3,9 @@ html,
   background: linear-gradient(to bottom right, #441b59, #374969, #72b087, #a96666);
 } */
 body {
-  background: #b06ad2;
+  background: #d0b7dd;
   font-family: 'Ubuntu', sans-serif;
-  /* background: linear-gradient(to bottom right, #b06ad2, #7ec73e, #72b087, #d37676); */
+  background: linear-gradient(to bottom right, #b06ad2, #7ec73e, #72b087, #d37676);
   /* set the background of the body to a solid color */
 }
 

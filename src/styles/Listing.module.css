@@ -1,11 +1,11 @@
 .container {
  display: grid;
  grid-template-columns: repeat(3, minmax(200px, 1fr));
- gap: 1rem;
+ gap: 2rem;
  padding: 1rem;
  margin: 1rem;
- margin-left: 2rem;
- margin-right: 2rem;
+ margin-left: 3rem;
+ margin-right: 3rem;
 
 }
 .V{

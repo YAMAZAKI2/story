@@ -1,7 +1,8 @@
 import Image from 'next/image'
 import Styles from '@/styles/Listing.module.css'
 import Stove from "../.././public/1.jpg";
-
+import Village from "../../public/Village.jpeg"
+import survival from "../../public/survival.jpg"
 import Link from 'next/link'
 
 const Listing = () => {
@@ -14,7 +15,7 @@ const Listing = () => {
      <Link href='/components/TheVillage'>
 
       <div className={Styles.image}>
-       <Image src={Stove} alt="1V" width={500} height={300} priority />
+       <Image src={Village} alt="Village" width={500} height={300} priority />
        <div className={Styles.overlay}>
         <h2>The Cursed Village</h2>
         <p>
@@ -29,7 +30,7 @@ const Listing = () => {
     <div className={Styles.item}>
      <Link href='/components/SurvivingTogether'>
       <div className={Styles.image}>
-       <Image src={Stove} alt="11" width={500} height={300} priority />
+       <Image src={survival} alt="survival" width={500} height={300} priority />
        <div className={Styles.overlay}>
         <h2>Surviving Together</h2>
         <p>

@@ -7,17 +7,19 @@
   height: 10rem;
   border-radius: 50%;
   object-fit: cover;
+
 }
 
 .story{
   font-size:3rem;
-
+width: 20px;
 }
 
 .main {
   /* max-width: 200px; */
   margin: 0 auto;
   /* padding: 50px; */
+
 }
 
 .h1 {
@@ -31,12 +33,13 @@ font-family: 'Ubuntu', sans-serif;
 }
 
 .p {
-
-  text-indent: 4em;
-text-align: center;
+  text-align: center;
   font-size: 1.6rem;
-  background-color: rgb(13, 13, 13);
+  background-color: rgba(93, 47, 153, 0.478);
   color: #ffffff;
   padding: 1rem;
-  border-radius: 1rem;
+  border-radius: 2rem;
+  width: 1000px;
+  margin: 0 auto;
+  /* add this line */
 }
