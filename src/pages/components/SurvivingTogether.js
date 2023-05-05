@@ -1,6 +1,6 @@
 import Styles from '@/styles/TheVillage.module.css';
 import Image from 'next/image';
-import Village from "../../../public/Survival.jpg"
+import Village from "../../../public/survival.jpg"
 const SurvivingTogether = () => {
   return (
     <>
