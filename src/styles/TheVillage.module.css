@@ -1,0 +1,28 @@
+.name{
+ text-align: center;
+font-family: 'Ubuntu', sans-serif;
+ font-size:xx-large;
+}
+.p{
+ max-width: 1000px;
+  /* Adjust as needed */
+  margin: 0 auto;
+  background-color: black;
+  color: rgb(246, 246, 246);
+  font-size: 1.475rem;
+  /* equivalent to 22px */
+  padding: 60px;
+  padding-top: 1%;
+  border-radius: 2rem;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.image {
+  padding-top: 0%;
+  position: relative;
+  overflow: hidden;
+  border-radius: 1rem;
+  text-align: center;
+
+
+}
