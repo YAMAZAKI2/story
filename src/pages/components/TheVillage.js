@@ -194,11 +194,11 @@ const TheVillage = () => {
      <br /><br />
      “Akira hit the dead man's arm that held the axe. Mao was unsure, but he eventually cut off the dead man's head. The villagers watched from inside their houses and came out when the dead man fall to the ground.”
      <br /><br />
-     ⫸ Villager 1: Don't think it's going to be an end. He will come back in other from again. Now you two have become his prime target. As long as you two are in this territory, he will hunt you down. Traveler, you must leave this place while you have chance.
+     <span className={Styles.characterName}> ⫸ Villager 1:</span> Don't think it's going to be an end. He will come back in other from again. Now you two have become his prime target. As long as you two are in this territory, he will hunt you down. Traveler, you must leave this place while you have chance.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> No, I can't leave until I find the other crew members. Does anyone of you know their whereabouts?
      <br /><br />
-     ⫸ Villager 2: In total, they were 10 people when they came in the village. Dead man already killed 4 of them brutally. I saw the remaining six of them escape to the mountains.
+     <span className={Styles.characterName}> ⫸ Villager 2:</span> In total, they were 10 people when they came in the village. Dead man already killed 4 of them brutally. I saw the remaining six of them escape to the mountains.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Mao, do you think we will be able to find them in those mountains.
      <br /><br />
@@ -294,7 +294,7 @@ const TheVillage = () => {
      <br /><br />
      “From the distance, Mao noticed All the film crew members guarding the cave. They all were dead and controlled by Mukcha.”
      <br /><br />
-     ⫸ Villager 1: You said he would be alone, but here the picture is different.
+     <span className={Styles.characterName}> ⫸ Villager 1:</span> You said he would be alone, but here the picture is different.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Mao:</span> He must have killed all those film crew members who ran in the mountains.
      <br /><br />
