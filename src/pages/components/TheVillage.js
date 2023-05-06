@@ -68,13 +68,13 @@ const TheVillage = () => {
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Oh god, You scared me, little guy. Where did you come from?
      <br /><br />
-     ⫸ Kid: Why are you here?
+     <span className={Styles.characterName}> ⫸ Kid:</span> Why are you here?
      <br /><br />
      “The kid spoke to Akira in a serious tone, his eyes fixed on him as if he had done something wrong.”
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> What do you mean kid? I'm here for fun. Do you know what's inside the cave?
      <br /><br />
-     ⫸ Kid: You shouldn't be here. We are not allowed to talk about the cave.
+     <span className={Styles.characterName}> ⫸ Kid:</span> You shouldn't be here. We are not allowed to talk about the cave.
      <br /><br />
      “The kid ran after he finished talking with Akira.”
      <br /><br />
@@ -330,13 +330,13 @@ const TheVillage = () => {
      <br /><br />
      ⫸ Mao: Son, come here. Where were you all this time?
      <br /><br />
-     ⫸ Kid: I was playing in the jungle, father, and I'm here to say goodbye because now I'm leaving this place. I will stay with mother now, father, so don't miss me and cry alone at nights.
+     <span className={Styles.characterName}> ⫸ Kid:</span> I was playing in the jungle, father, and I'm here to say goodbye because now I'm leaving this place. I will stay with mother now, father, so don't miss me and cry alone at nights.
      <br /><br />
      “Mao controlled his emotion.”
      <br /><br />
      ⫸ Mao: I won't, son. But don't make trouble for your mother, promise me.
      <br /><br />
-     ⫸ Kid: I will never. Father, I'm leaving now.
+     <span className={Styles.characterName}> ⫸ Kid:</span> I will never. Father, I'm leaving now.
      <br /><br />
      “Mao couldn't hold back his emotions any longer and burst into tears, knowing it would be the last time he would ever see him. Akira tapped his shoulder to comfort him.”
      <br /><br />
