@@ -217,7 +217,6 @@ const SurvivingTogether = () => {
           <span className={Styles.characterName}> ⫸ Mark:</span> I agree, Jona. I would rather move forward than walking back into the jungle, which is full of creatures.
           <br /><br />
           <span className={Styles.characterName}> ⫸ Jona:</span> I understand, but we can't take any unnecessary risks. We need to make sure we're fully prepared before we go any further. Let's gather supplies first. We have been travelling for days and short on supplies.
-          <br /><br />
           Searching the food for the rest of the group is the first thing we should work on. Misa you will be handling the rest of the group, while Mark
           and I will be out searching for food in the city. That building over there looks fine to stay. We have no idea whether those creatures are here or not, so do not let your guard down.
           Alright, Mark. I'm going to the west of the city, and you have to search in the east.
@@ -299,9 +298,9 @@ const SurvivingTogether = () => {
           <br /><br />
           “Despite being in an unfamiliar place, Mark and Jona agreed to keep moving forward with the group. Soon, they came across a building with a fire burning outside. Mark signaled for Jona to stay back while he went to investigate.”
           <br /><br />
-          After a quick look around, Mark returned to Jona with heavy breath and whispered.
+          "After a quick look around, Mark returned to Jona with heavy breath and whispered."
           <br /><br />
-          Mark: It's not safe. There are people inside, and they're armed. We need to be careful. It would be better if we change the path and took a longer way to bypass the building.
+          <span className={Styles.characterName}> ⫸ Mark:</span> It's not safe. There are people inside, and they're armed. We need to be careful. It would be better if we change the path and took a longer way to bypass the building.
           <br /><br />
           “Jona agreed with Mark, and the group decided to take a longer route to avoid the building with the armed men. They knew it would take more time, but they preferred to be safe than sorry. But this time luck wasn't with them."
           <br /><br />

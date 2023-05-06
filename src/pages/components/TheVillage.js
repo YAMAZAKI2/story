@@ -130,7 +130,7 @@ const TheVillage = () => {
      <br /><br />
      "Mao broke down in tears and started hitting the floor in frustration. Akira quickly intervened and prevented him from injuring himself further."
      <br /><br />
-     ⫸ Kaira: Are you okay? Stop punching the ground. You will hurt yourself.
+     <span className={Styles.characterName}> ⫸ Akira:</span> Are you okay? Stop punching the ground. You will hurt yourself.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Mao:</span> He was my son. Five years ago, he got lost in the jungle. We searched everywhere for him, but we couldn't find him. The next day, the farmers found his dead body in front of the cave.
      <br /><br />
@@ -172,7 +172,7 @@ const TheVillage = () => {
      <br /><br />
      As the villagers entered the cave, Mukcha chanted some mantra and slit the throats of his two daughters, splashing their blood all over the villagers. This horrific act left everyone scared and shocked.
      <br /><br />
-     ⫸ Mukcha said: You people killed my wife. Without knowing the whole truth. Now you must see the wrath of the dark power upon this village. I cursed you all villagers. You will never be able to leave this village nor this jungle. Those who will try to leave are going to die a miserable death. And those who will set foot in this cave are going to die, and their spirit will be stuck here in this place forever.
+     <span className={Styles.characterName}> ⫸ Mukcha said:</span> You people killed my wife. Without knowing the whole truth. Now you must see the wrath of the dark power upon this village. I cursed you all villagers. You will never be able to leave this village nor this jungle. Those who will try to leave are going to die a miserable death. And those who will set foot in this cave are going to die, and their spirit will be stuck here in this place forever.
      <br /><br />
      After finishing his words, Mukcha stabbed himself in the neck. Those who were in the cave started running to get out, but some stayed and ended up dying. Since then, we have been stuck here in this village, bound by the curse.
      <br /><br />
@@ -252,7 +252,7 @@ const TheVillage = () => {
      <br /><br />
      <span className={Styles.characterName}> ⫸ Olwek:</span> It is so strange. After all these years, they are still in the same form.
      <br /><br />
-     ⫸ Akira: But I don't get it, They all were being sacrificed to become immortal. Yet they were dead. There were only bones of Mukcha’s body, and His daughters bodies were fine. Could you explain that?
+     <span className={Styles.characterName}> ⫸ Akira:</span> But I don't get it, They all were being sacrificed to become immortal. Yet they were dead. There were only bones of Mukcha’s body, and His daughters bodies were fine. Could you explain that?
      <br /><br />
 
      <span className={Styles.characterName}> ⫸ Olwek:</span> They did become immortal but in the spirit form, not in human form. And about His daughters' body conditions, it may be because they were children with pure souls that's why they maintained the same form, while Mukcha's spirit was already corrupt by his greed, and that's the reason his body decayed over time.
@@ -306,7 +306,7 @@ const TheVillage = () => {
      <br /><br />
      “Meanwhile, Akira’s eyes went to the kerosene cans. He told everyone to move on his signal.”
      <br /><br />
-     ⫸ Akira: I never thought, I would do such a thing, forgive me grandpa and grandma. Everyone, get back right now, it's kerosene I'm throwing right at you.
+     <span className={Styles.characterName}> ⫸ Akira:</span> I never thought, I would do such a thing, forgive me grandpa and grandma. Everyone, get back right now, it's kerosene I'm throwing right at you.
      <br /><br />
      "He took out his emergency survival lighter and threw it at the film crew members. In an instant, the place caught fire, so did the film crew members. Despite being on fire, they kept fighting until their bodies gave up, and they fell down one by one."
      <br /><br />
