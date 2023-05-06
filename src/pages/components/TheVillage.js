@@ -100,31 +100,31 @@ const TheVillage = () => {
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Hey, wait, Who’s he? I have no idea what you are talking about? And I'm not investigating anything.
      <br /><br />
-     ⫸ Mao: You are the part of that filming crew, aren't you?
+     <span className={Styles.characterName}> ⫸ Mao:</span> You are the part of that filming crew, aren't you?
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> No, I'm not. I'm just here to explore this village. I had no idea what was happening here.
      <br /><br />
-     ⫸ Mao: Mister, you made a terrible mistake by coming here in this kind of situation.
+     <span className={Styles.characterName}> ⫸ Mao:</span> Mister, you made a terrible mistake by coming here in this kind of situation.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> What do you mean by a terrible mistake? Could you please clear things out? You are talking all in a maze.
      <br /><br />
-     ⫸ Mao: Listen carefully, Mister. The person you just saw outside was already dead. He died two days ago in a terrible accident in the jungle. We were setting up traps to catch animals. Accidentally, his leg slipped, and he fell onto the trap, causing his left side head to be cut off instantly, leading to his death.
+     <span className={Styles.characterName}> ⫸ Mao:</span> Listen carefully, Mister. The person you just saw outside was already dead. He died two days ago in a terrible accident in the jungle. We were setting up traps to catch animals. Accidentally, his leg slipped, and he fell onto the trap, causing his left side head to be cut off instantly, leading to his death.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Then, How did he come back to life, all of a sudden?
      <br /><br />
-     ⫸ Mao: It was the doing of Mukcha. He lived inside the cave. It was an old dark spirit. Those people you saw back there who were filming everything, they wanted to unveil the mystery behind the cave. That spirit had already warned them in various ways. But they just decided to ignore it. The guy he just killed must have done something terrible to make him this angry.
+     <span className={Styles.characterName}> ⫸ Mao:</span> It was the doing of Mukcha. He lived inside the cave. It was an old dark spirit. Those people you saw back there who were filming everything, they wanted to unveil the mystery behind the cave. That spirit had already warned them in various ways. But they just decided to ignore it. The guy he just killed must have done something terrible to make him this angry.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Then I made a mistake by coming here. Now I understand why that kid, by the cave, told me that I shouldn’t be here.
      <br /><br />
-     ⫸ Mao: Did you go inside the cave? All villagers are prohibited from going there. Any person from the village ends up dead when they get inside the cave. Maybe the kid you saw was the spirit. No one knows what's really inside that cave. Whoever dies there, their spirit wanders in the jungle. It's a curse on the villagers.
+     <span className={Styles.characterName}> ⫸ Mao:</span> Did you go inside the cave? All villagers are prohibited from going there. Any person from the village ends up dead when they get inside the cave. Maybe the kid you saw was the spirit. No one knows what's really inside that cave. Whoever dies there, their spirit wanders in the jungle. It's a curse on the villagers.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Then don't you think we should help those film crew members?
      <br /><br />
-     ⫸ Mao: Are you out of your mind? Did you forget what I just said?
+     <span className={Styles.characterName}> ⫸ Mao:</span> Are you out of your mind? Did you forget what I just said?
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> I understand what you said. After hearing it all I'm definitely  scared but still we need to find those people, and escape from here. No one needs to die here for nothing.
      <br /><br />
-     ⫸ Mao: Could you tell me about the kid you saw by the cave?  What did he look like?
+     <span className={Styles.characterName}> ⫸ Mao:</span> Could you tell me about the kid you saw by the cave?  What did he look like?
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> He was around 4 or 5 years old, I guess. Short hair, blue t-shirt and white shorts. Why did you ask?
      <br /><br />
@@ -132,15 +132,15 @@ const TheVillage = () => {
      <br /><br />
      ⫸ Kaira: Are you okay? Stop punching the ground. You will hurt yourself.
      <br /><br />
-     ⫸ Mao: He was my son. Five years ago, he got lost in the jungle. We searched everywhere for him, but we couldn't find him. The next day, the farmers found his dead body in front of the cave.
+     <span className={Styles.characterName}> ⫸ Mao:</span> He was my son. Five years ago, he got lost in the jungle. We searched everywhere for him, but we couldn't find him. The next day, the farmers found his dead body in front of the cave.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> I'm sorry to hear that. I remember your son's face. It was lifeless. Isn't there any way to free the spirits of the dead and lift the curse? There may be someone in the village who knows about the real story behind the curse.
      <br /><br />
-     ⫸ Mao: There is one man, who might know about this.
+     <span className={Styles.characterName}> ⫸ Mao:</span> There is one man, who might know about this.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Let's find him then, But we need to save those film crew as well.
      <br /><br />
-     ⫸ Mao: Leave that to me. Once we find out more about the cave curse, I'll find and gather the film crew at one place. But first, we need to go to the old man's place. He's a local expert on the area and may be able to shed some light on the curse.
+     <span className={Styles.characterName}> ⫸ Mao:</span> Leave that to me. Once we find out more about the cave curse, I'll find and gather the film crew at one place. But first, we need to go to the old man's place. He's a local expert on the area and may be able to shed some light on the curse.
      <br /><br />
      “Having carefully inspected their surroundings, Akira and Mao left the house and made their way to the old man's place. They moved cautiously, carefully avoiding the attention of the undead creature that lurked nearby. But they were unaware that the creature had climbed onto the roof of the house and watched their every move, waited for the right moment to strike."
      <br /><br />
@@ -148,23 +148,23 @@ const TheVillage = () => {
      <br /><br />
      “Old man was already going through some of his books. Mao introduced the old man to Akira, and then Akira told him everything about the incident by the cave and the dead guy.”
      <br /><br />
-     ⫸ Olwek: Are you certain you saw Mao's son's spirit?
+     <span className={Styles.characterName}> ⫸ Olwek:</span> Are you certain you saw Mao's son's spirit?
      <br /> <br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Yes, I'm pretty sure there was a kid, even before the kid I met two guys by the river platform.  But They didn't talk with me.
      <br /><br />
      “Olwek took out the picture of the album and showed it to Akira.”
      <br /><br />
-     ⫸ Olwek: Are these two were there?
+     <span className={Styles.characterName}> ⫸ Olwek:</span> Are these two were there?
      <br /><br />
      “Olwek pointed his finger to one picture.”
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Yes, It’s them. Were they spirits too?
      <br /><br />
-     ⫸ Olwek: I'm afraid so. They died 20 years ago because of that cave. They were non-believers of Mukcha and went inside the cave to prove to the villagers that it was just a fairy tale, they went inside the cave and never returned. But there was one interesting thing I noticed recently about the cave. When the film crew went inside, nothing happened to them. We even asked what they saw inside, but they decided to share that after finishing their documentary.
+     <span className={Styles.characterName}> ⫸ Olwek:</span> I'm afraid so. They died 20 years ago because of that cave. They were non-believers of Mukcha and went inside the cave to prove to the villagers that it was just a fairy tale, they went inside the cave and never returned. But there was one interesting thing I noticed recently about the cave. When the film crew went inside, nothing happened to them. We even asked what they saw inside, but they decided to share that after finishing their documentary.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Olwek, do you know the history of Mukcha and the cave?
      <br /><br />
-     ⫸ Olwek: Yes, I have heard stories from my grandparents. Around 300 years ago, there was a man named Mukcha who lived in a village with his wife and two daughters. He was considered the wealthiest person in the village, but the villagers believed that he was practicing black magic. They often saw him entering a nearby cave with different animals, which confirmed their suspicions.
+     <span className={Styles.characterName}> ⫸ Olwek:</span> Yes, I have heard stories from my grandparents. Around 300 years ago, there was a man named Mukcha who lived in a village with his wife and two daughters. He was considered the wealthiest person in the village, but the villagers believed that he was practicing black magic. They often saw him entering a nearby cave with different animals, which confirmed their suspicions.
      <br /><br />
      Eventually, the news about Mukcha's black magic practices spread throughout the village, and a group of angry villagers gathered outside his house. Fearing for his safety and the safety of his daughters, Mukcha escaped through a window with his two daughters, leaving his wife behind. Unfortunately, the villagers captured his wife and beat her to death. The next day, they hung her body from a tree and set it on fire.
      <br /><br />
@@ -180,11 +180,11 @@ const TheVillage = () => {
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Then we must see the cave. I can go inside to find out the truth.
      <br /><br />
-     ⫸ Mao: With him out there, we may find it hard to get to the handcar. We can use yourself as a bait to lure that dead man.
+     <span className={Styles.characterName}> ⫸ Mao:</span> With him out there, we may find it hard to get to the handcar. We can use yourself as a bait to lure that dead man.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> You have a plan in your mind?
      <br /><br />
-     ⫸ Mao: Yes, you have to be in an open spot to get his attention, and I will tie some fishing lines on the pole from each side around you. As we know, he is too aggressive, he will run to you, without a second thought, getting caught in our trap. I hope it will cut his flesh enough to slow him down. Then we can attack him, once he hits the ground.
+     <span className={Styles.characterName}> ⫸ Mao:</span> Yes, you have to be in an open spot to get his attention, and I will tie some fishing lines on the pole from each side around you. As we know, he is too aggressive, he will run to you, without a second thought, getting caught in our trap. I hope it will cut his flesh enough to slow him down. Then we can attack him, once he hits the ground.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Not the best idea, but, we can try it.
      <br /><br />
@@ -202,15 +202,15 @@ const TheVillage = () => {
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Mao, do you think we will be able to find them in those mountains.
      <br /><br />
-     ⫸ Mao: It will be a tough job, but not impossible. However, I suggest we shouldn't pursue them. The root cause of this curse is in a cave, and you're the only one who can go inside the cave and uncover what's really inside, it might help those film crew members survive.
+     <span className={Styles.characterName}> ⫸ Mao:</span> It will be a tough job, but not impossible. However, I suggest we shouldn't pursue them. The root cause of this curse is in a cave, and you're the only one who can go inside the cave and uncover what's really inside, it might help those film crew members survive.
      <br /><br />
      "The other villagers chose not to support Mao and Akira because they were afraid that Mukcha might come after them too. Hence, the two of them got onto a handcar and headed towards the cave."
      <br /><br />
-     ⫸ Mao: You have to be vigilant when you will be in that cave. Take this lamp and axe with you; I will stay outside waiting for you.
+     <span className={Styles.characterName}> ⫸ Mao:</span> You have to be vigilant when you will be in that cave. Take this lamp and axe with you; I will stay outside waiting for you.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> I need you to make a promise to me. If I don't come out by evening, you must go into the mountains to find the rest of the crew members.
      <br /><br />
-     ⫸ Mao: I don't need to make a promise for that, You will come out of this cave safe, and we will find them together.
+     <span className={Styles.characterName}> ⫸ Mao:</span> I don't need to make a promise for that, You will come out of this cave safe, and we will find them together.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Thanks for the motivation. I've always been scared of going into a cave, and now I'm going into one, such an irony. Time for me to face my fear.
      <br /><br />
@@ -234,7 +234,7 @@ const TheVillage = () => {
      <br /><br />
      "With those words, Akira ran back towards the cave, but as he arrived, he found that his grandparents had disappeared."
      <br /><br />
-     ⫸ Mao:  Akira, what happened?
+     <span className={Styles.characterName}> ⫸ Mao:</span>  Akira, what happened?
      <br /><br />
      “Akira took out a picture of his grandparents from his pocket and smiled.”
      <br /><br />
@@ -242,30 +242,30 @@ const TheVillage = () => {
      <br /><br />
      “They saw Olwek heading their way.”
      <br /><br />
-     ⫸ Mao: Why did you risk your life by coming here?
+     <span className={Styles.characterName}> ⫸ Mao:</span> Why did you risk your life by coming here?
      <br /><br />
-     ⫸ Olwek: I found something important while I was going through my ancestral old archives. And there I found the mention of the cave. It goes back to thousands of years old. This cave used to be the holy place for dark magic, where one could achieve anything by sacrificing a life. Somehow, Mukcha was able to decode the cave drawings and gained wealth by sacrificing animals.
+     <span className={Styles.characterName}> ⫸ Olwek:</span> I found something important while I was going through my ancestral old archives. And there I found the mention of the cave. It goes back to thousands of years old. This cave used to be the holy place for dark magic, where one could achieve anything by sacrificing a life. Somehow, Mukcha was able to decode the cave drawings and gained wealth by sacrificing animals.
      <br /><br />
      Even in his last moment, he was so blinded by greed to achieve anything by the dark magic that, in order to make his wish true to become immortal, he sacrificed his own daughters, and to make his daughters immortal as well, he sacrificed himself. I suppose you have found something else in the cave.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> These are the dead bodies I found that were out of the ordinary. That's why I took them out.
      <br /><br />
-     ⫸ Olwek: It is so strange. After all these years, they are still in the same form.
+     <span className={Styles.characterName}> ⫸ Olwek:</span> It is so strange. After all these years, they are still in the same form.
      <br /><br />
      ⫸ Akira: But I don't get it, They all were being sacrificed to become immortal. Yet they were dead. There were only bones of Mukcha’s body, and His daughters bodies were fine. Could you explain that?
      <br /><br />
 
-     ⫸ Olwek: They did become immortal but in the spirit form, not in human form. And about His daughters' body conditions, it may be because they were children with pure souls that's why they maintained the same form, while Mukcha's spirit was already corrupt by his greed, and that's the reason his body decayed over time.
+     <span className={Styles.characterName}> ⫸ Olwek:</span> They did become immortal but in the spirit form, not in human form. And about His daughters' body conditions, it may be because they were children with pure souls that's why they maintained the same form, while Mukcha's spirit was already corrupt by his greed, and that's the reason his body decayed over time.
      <br /><br />
      “As Olwek touched one of the body of Mukcha’s daughter, It began to decay, eventually tuned into dust. And a loud scream came out of the cave.”
      <br /><br />
-     ⫸ Olwek: I get it now, Mukcha bound this curse to the bodies. As long as their bodies remain intact, the curse will remain in effect. It will free all the spirits from this place, including your sons as well, Mao.
+     <span className={Styles.characterName}> ⫸ Olwek:</span> I get it now, Mukcha bound this curse to the bodies. As long as their bodies remain intact, the curse will remain in effect. It will free all the spirits from this place, including your sons as well, Mao.
      <br /><br />
      “Olwek moved forward his hand to touch the other body, but out of nowhere, an axe appeared and cut his arm into two pieces. He began to scream out loud in pain.”
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Mao, look there at tracks, one of the film crew members.
      <br /><br />
-     ⫸ Mao: We need to carry Olwek and take him to the handcar. That man is possessed by Mukcha. Hurry up, or we will all be in danger.
+     <span className={Styles.characterName}> ⫸ Mao:</span> We need to carry Olwek and take him to the handcar. That man is possessed by Mukcha. Hurry up, or we will all be in danger.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Mao, just touch his daughter's body and see if it can break the curse.
      <br /><br />
@@ -276,31 +276,31 @@ const TheVillage = () => {
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> What are we going to do now? He has lost lots of blood. Olwek don't close the eyes, stay with me.
      <br /><br />
-     ⫸ Mao: I'm thinking, I’m thinking. You said in the cave there are Mukcha's bones, right? If you can somehow retrieve his skeleton, I can destroy it.
+     <span className={Styles.characterName}> ⫸ Mao:</span> I'm thinking, I’m thinking. You said in the cave there are Mukcha's bones, right? If you can somehow retrieve his skeleton, I can destroy it.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Mao, now I don't think he will leave the cave open for me to get in. That's why he didn't follow us.
      <br /><br />
-     ⫸ Mao: This time, I will convince all the villagers to help us, no matter what. This curse is on the verge of breaking. This time it has to be done. Is Olwek holding up well?
+     <span className={Styles.characterName}> ⫸ Mao:</span> This time, I will convince all the villagers to help us, no matter what. This curse is on the verge of breaking. This time it has to be done. Is Olwek holding up well?
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> He is already dead. Mao.
      <br /><br />
      “Mao punched the handle in anger. They remained silent until they reached the village. Mao gathered all the villagers and told them everything about how Mukcha’s daughter turned into dust as Olwek made contact with the dead body.”
      <br /><br />
-     ⫸ Mao: If we fight together just this once to end this curse, our future generations won't have to spend their whole lives in this place. The spirits wandering in the jungle will be free as well. It's a situation of now or never. We can't let Olwek's death be in vain. So I ask you all, will I get your support just this once?
+     <span className={Styles.characterName}> ⫸ Mao:</span> If we fight together just this once to end this curse, our future generations won't have to spend their whole lives in this place. The spirits wandering in the jungle will be free as well. It's a situation of now or never. We can't let Olwek's death be in vain. So I ask you all, will I get your support just this once?
      <br /><br />
      “Some villagers took a step forward and agreed to help him, some stayed behind. They all were well prepared. After Olwek burial ceremony, they got on a handcar and approached to the cave.”
      <br /><br />
-     ⫸ Mao: Everybody listen, we must protect Akira from Mukcha at all cost. Some of us will create a diversion, so Akira can get inside the cave to take out Mukcha’s skeleton. He might use his dark magic, so keep a safe distance from him.
+     <span className={Styles.characterName}> ⫸ Mao:</span> Everybody listen, we must protect Akira from Mukcha at all cost. Some of us will create a diversion, so Akira can get inside the cave to take out Mukcha’s skeleton. He might use his dark magic, so keep a safe distance from him.
      <br /><br />
      “From the distance, Mao noticed All the film crew members guarding the cave. They all were dead and controlled by Mukcha.”
      <br /><br />
      ⫸ Villager 1: You said he would be alone, but here the picture is different.
      <br /><br />
-     ⫸ Mao: He must have killed all those film crew members who ran in the mountains.
+     <span className={Styles.characterName}> ⫸ Mao:</span> He must have killed all those film crew members who ran in the mountains.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Everyone, I'm scared, and I know you all might be too. But this is a live or die situation. Either we defeat Mukcha and end this curse, or he will destroy us all. I ask you to create a distraction and make a small opening for me to get inside the cave. That's all I ask of you, and I promise I'll do everything in my power to take out Mukcha’s bone out from the cave.
      <br /><br />
-     ⫸ Mao: Did you all hear what he just said? Now let's get down there and end this once and for all.
+     <span className={Styles.characterName}> ⫸ Mao:</span> Did you all hear what he just said? Now let's get down there and end this once and for all.
      <br /><br />
      “Akira's words gave them all a little courage to fight. Akira stayed behind, and the rest of the villagers jumped into the fight. Possessed film crew members were fighting like savages, and it was clear to see how angry Mukcha was about his daughters. They were all giving a tough fight.”
      <br /><br />
@@ -310,7 +310,7 @@ const TheVillage = () => {
      <br /><br />
      "He took out his emergency survival lighter and threw it at the film crew members. In an instant, the place caught fire, so did the film crew members. Despite being on fire, they kept fighting until their bodies gave up, and they fell down one by one."
      <br /><br />
-     ⫸ Mao: Akira, it's your chance. Get inside quickly.
+     <span className={Styles.characterName}> ⫸ Mao:</span> Akira, it's your chance. Get inside quickly.
      <br /><br />
      “Akira ran inside the cave. He was shocked to see that the cave drawings caught fire and were disappearing. It was not enough that the whole cave started to shake, which was a sign for Akira to hurry. He got to Mukcha’s bones, packed it in a piece of cloth, and ran back. When he saw the opening of the cave crumbling and about to close, he closed his eyes and pictured his grandparents.”
      <br /><br />
@@ -318,23 +318,23 @@ const TheVillage = () => {
      <br /><br />
      “With these words, he jumped and made his way out of the cave through a small opening. Everyone was surprised to see him emerge successfully.”
      <br /><br />
-     ⫸ Mao: We really thought you would be dead and wouldn't make it out alive.
+     <span className={Styles.characterName}> ⫸ Mao:</span> We really thought you would be dead and wouldn't make it out alive.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> I won't die that easy, my grandparents won't let me.
      <br /><br />
-     ⫸ Mao: Come again?
+     <span className={Styles.characterName}> ⫸ Mao:</span> Come again?
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Nothing, Here are the bones of Muksha. Free everyone from this curse.
      <br /><br />
      "Mao touched Mukcha’s bones, and they turned into ashes. He then heard someone calling 'father,' as he turned around, it was his son smiling at him."
      <br /><br />
-     ⫸ Mao: Son, come here. Where were you all this time?
+     <span className={Styles.characterName}> ⫸ Mao:</span> Son, come here. Where were you all this time?
      <br /><br />
      <span className={Styles.characterName}> ⫸ Kid:</span> I was playing in the jungle, father, and I'm here to say goodbye because now I'm leaving this place. I will stay with mother now, father, so don't miss me and cry alone at nights.
      <br /><br />
      “Mao controlled his emotion.”
      <br /><br />
-     ⫸ Mao: I won't, son. But don't make trouble for your mother, promise me.
+     <span className={Styles.characterName}> ⫸ Mao:</span> I won't, son. But don't make trouble for your mother, promise me.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Kid:</span> I will never. Father, I'm leaving now.
      <br /><br />
@@ -342,11 +342,11 @@ const TheVillage = () => {
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> He's finally free now.
      <br /><br />
-     ⫸ Mao: Yes he is, What are you going to do now Akira?
+     <span className={Styles.characterName}> ⫸ Mao:</span> Yes he is, What are you going to do now Akira?
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Because of this Mukcha, I haven't been able to explore the whole village yet. Would you become my guide to show me around?
      <br /><br />
-     ⫸ Mao: Anything for you, Akira. You owe us big time.
+     <span className={Styles.characterName}> ⫸ Mao:</span> Anything for you, Akira. You owe us big time.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Mao, I will always remember this adventure I’ve had here.
      <br /><br />
