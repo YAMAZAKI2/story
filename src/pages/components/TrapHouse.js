@@ -1,10 +1,18 @@
 import Styles from '@/styles/TheVillage.module.css';
+import Image from 'next/image';
+import Trap from "../../../public/trap.jpg"
 
 const TrapHouse = () => {
  return (
   <>
-   <div className={Styles.name}>Trap House</div>
+   <div className={Styles.name}>
+    <h1>Trap House</h1></div>
+
    <div className={Styles.p}>
+    <h3>Estimated reading time: 3 mins 37 sec</h3>
+    <div className={Styles.image}>
+     <Image src={Trap} alt="Traphouse" width={900} height={500} priority />
+    </div>
     <p>
      Trap House
 

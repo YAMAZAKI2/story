@@ -26,3 +26,7 @@ font-family: 'Ubuntu', sans-serif;
 
 
 }
+
+.characterName {
+  font-weight: bolder;
+}

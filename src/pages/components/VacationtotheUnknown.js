@@ -1,9 +1,17 @@
 import Styles from '@/styles/TheVillage.module.css';
+import Image from 'next/image';
+import oasis from "../../../public/oasis.jpg"
 const VacationtotheUnknown = () => {
   return (
     <>
-      <div className={Styles.name}>Vacation to the Unknown</div>
+      <div className={Styles.name}>
+        <h1>Vacation To The Unknown</h1></div>
+
       <div className={Styles.p}>
+        <h3>Estimated reading time: 4 mins 13 sec</h3>
+        <div className={Styles.image}>
+          <Image src={oasis} alt="oasis" width={900} height={500} priority />
+        </div>
         <p>
 
 
