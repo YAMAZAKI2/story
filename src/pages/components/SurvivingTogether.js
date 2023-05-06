@@ -21,13 +21,13 @@ const SurvivingTogether = () => {
           <Image src={Village} alt="Village" width={900} height={500} priority />
         </div>
         <p>
-          “It was the era of apocalypse. Due to war, around 90 percent of the human population became extinct, left behind only a small group of survivors in a desolate wasteland. Around the world, there were many groups of survivors traveled from place to place in search of food and shelter. Jona was part of one of these groups and was the only survivor from his family."
+          “It was the era of apocalypse. Due to war, around 90 percent of the human population became extinct, left behind only a small group of survivors in an empty wasteland. Around the world, there were many groups of survivors traveled from place to place in search of food and shelter. Jona was part of one of these groups and was the only survivor from his family."
           <br /><br />
           "Just like him, many people in his group had also lost their family members, ranging from young to old age. When Jona and others heard about the shelter in the destroyed city, which was situated to the north. They started their journey, with around 30 people in the group. But as the time passed, the number declined. Some suffered from diseases, some died of hunger, and some couldn't bear the trauma of the war.”
           <br /><br />
           <span className={Styles.characterName}> ⫸ Jona:</span> Listen everyone, gather together, we are about to leave now.
           <br /><br />
-          <span className={Styles.characterName}> ⫸ Ron:</span> Hey Jona, do you think how long will it take us to make to the city?
+          <span className={Styles.characterName}> ⫸ Ron:</span> Hey Jona, What do you think how long will it take us to make to the city?
           <br /><br />
           <span className={Styles.characterName}> ⫸ Jona:</span> Ron, this is the 10th time you have asked me the same question. Just don't worry about it, we will make it in time. You better look after your mom and go back to her.
           <br /><br />
@@ -70,7 +70,8 @@ const SurvivingTogether = () => {
           “They entered the jungle domain with all the preparation. In the jungle, They saw two Asian monk kids. They were in bad shape, from their clothing to physical state, but despite all of that, they had a soft smile on their face.”
           <br /><br />
           <span className={Styles.characterName}> ⫸ Jona:</span> Are you guys ok? Need anything to eat?
-          Asian kid monk: Thank you, but we can't accept it. There are others who need it more than us. We've been living in the jungle for a while now. It is our time to travel to the mountains.
+          <br /><br />
+          <span className={Styles.characterName}> ⫸ Asian monk kid:</span> Thank you, but we can't accept it. There are others who need it more than us. We've been living in the jungle for a while now. It is our time to travel to the mountains.
           <br /><br />
           <span className={Styles.characterName}> ⫸ Jona:</span> You should both come with us. There is a shelter in the city where we can get food and other resources. You could come with us and rest there for a while.
           <br /><br />
@@ -89,6 +90,7 @@ const SurvivingTogether = () => {
           “Suddenly they heard a baby cry. In order to find out, Jona and others followed the voice. They came across a hole and found a woman inside, with the baby tied to her. They took her out of the hole, but she was still unconscious. Jona carefully untied the child from the mother and tried to calm down the baby. They tried to wake her up, but she remained unconscious. After long hours, she gained consciousness. But there was a terror in her eyes. She asked Jona about the baby. A girl from the group came and gave her back the baby.”
           <br /><br />
           <span className={Styles.characterName}> ⫸ Jona:</span> What exactly happened? How did you end in this deep jungle with the baby?
+          <br /><br />
           <span className={Styles.characterName}> ⫸ Misa:</span> For right now, all you need to know is my name. We need to leave this place right now and find ourselves a safer place on the mountain.
           <br /><br />
           “Jona agreed, and by evening they reached the top of the mountain. After everything was settled, the group sat around the bonfire, and Misa started talking.”
@@ -193,7 +195,7 @@ const SurvivingTogether = () => {
           <br /><br />
           <span className={Styles.characterName}> ⫸ Jona:</span> It’s morning, everyone, time to get out of this place.
           <br /><br />
-          <span className={Styles.characterName}> ⫸ Mark:</span> Look Jona footprints everywhere. How many were here last night? Any guess?
+          <span className={Styles.characterName}> ⫸ Mark:</span> Look, Jona, footprints everywhere. How many were here last night? Any guess?
           <br /><br />
           <span className={Styles.characterName}> ⫸ Jona:</span> By on the sounds we heard last night, I'd say eight to nine creatures.
           <br /><br />
@@ -210,7 +212,7 @@ const SurvivingTogether = () => {
           <br /><br />
           “The scenery ahead of them was devastated. A pile of human bones, destroyed buildings, nature had begun to take over, with trees and vines growing through the cracks of buildings, and hanging dead bodies on the bridges. The unbearable smell and birds tearing off the flesh of the corpses. They couldn't have imagined it would be like this, but the informer who had told Jona about the shelter never said anything like this.”
           <br /><br />
-          <span className={Styles.characterName}> ⫸ Mark:</span> No, it shouldn't be like this. We traveled all this way to see this. It just can't be.
+          <span className={Styles.characterName}> ⫸ Mark:</span> No, It shouldn't be like this. We traveled all this way to see this. It just can't be.
           <br /><br />
           <span className={Styles.characterName}> ⫸ Jona:</span> Mark, we don't know who really caused it, and we haven't even been inside the city yet. Although we are close to our final destination. We still need to stay alert. There might be other people inside the city. We have to be vigilant and careful not to put ourselves in danger.
           <br /><br />
@@ -227,11 +229,10 @@ const SurvivingTogether = () => {
           <br /><br />
           <span className={Styles.characterName}> ⫸ Mark:</span> I will be fine. You be careful out there as well.
           <br /><br />
-          “With the sense of concern to each other, they depart in the search for food. While everyone watched, both of them disappear in the city ruins. Misa, then, lead the group to a partially damaged building. Jona passed by several abandoned restaurants and supermarkets, but they had all been picked clean. The only things left were broken bottles and scattered trash. He tried to keep his spirits up, reminding himself that Mark might have better luck on the other side of the city.”
+          “With the sense of concern to each other, they depart in the search for food. While everyone watched, both of them disappear in the city ruins. Misa, then, lead the group to a partially damaged building. Jona passed by several abandoned restaurants and supermarkets, but they had all been picked clean. The only things left were empty bottles and scattered trash. He tried to keep his spirits up, reminding himself that Mark might have better luck on the other side of the city.”
+
           <br /><br />
-          “Jona passed by many abandoned restaurants and supermarkets, but they had all been picked clean. The only things left were broken bottles and scattered trash. He tried to keep his spirits up, reminding himself that Mark might have better luck on the other side of the city.”
-          <br /><br />
-          “Meanwhile, Mark was having his own struggles. The city was mostly deserted, with only the occasional abandoned houses to be seen. He was starting to worry that he wouldn't find anything when he heard a faint rustling sound coming from behind a nearby building.”
+          “Meanwhile, Mark was having his own struggles. The city was mostly deserted, with only the occasional abandoned houses to be seen. He was starting to worry that he wouldn't find anything. Then he heard a faint rustling sound coming from behind a nearby building.”
           <br /><br />
           “He made his way towards the sound, with knife in his hand. As he rounded the corner, he saw a small group of people sat around a fire, roasting rats. He approached the group, trying to keep his voice calm."
           <br /><br />
@@ -271,15 +272,15 @@ const SurvivingTogether = () => {
           <br /><br />
           <span className={Styles.characterName}> ⫸ Mark:</span> Then we must leave this place in the dark. It will be safer than going out in a daylight.
           <br /><br />
-          <span className={Styles.characterName}> ⫸ Misa:</span> What about the creatures? They exist here as well. We can't take that much risk.
+          <span className={Styles.characterName}> ⫸ Misa:</span> What about the creatures? What if they exist here as well. We can't take that much risk.
           <br /><br />
           <span className={Styles.characterName}> ⫸ Jona:</span> We can stay here for a night, to see if there are any creatures or not, lurking around the city. Having a good number of buildings around us will work in our favor. We'll be able to cover a large area and keep watch from different vantage points.
           <br /><br />
           <span className={Styles.characterName}> ⫸ Mark:</span> It will be all dark, how are we going to do watch.
           <br /><br />
-          <span className={Styles.characterName}> ⫸ Jona:</span> Don't you worry about that. We will require only ears, not eyes. Back then, we separated from each other to look out for food. I had collected empty bottles, cans, and strings. We can make good use of them by putting small rocks in them and tying string with cans and bottles. We will spread them all over the area, so if anyone comes at night, we will know it. I'm sure that, no one will wander around all these debris in pitch dark except those creatures.
+          <span className={Styles.characterName}> ⫸ Jona:</span> Don't you worry about that. We will require only ears, not eyes. Back then, when we separated from each other to look out for food. I had collected empty bottles, cans, and strings. We can make good use of them by putting small rocks in them and tying string with cans and bottles. We will spread them all over the area, so if anyone comes at night, we will know it. I'm sure that, no one will wander around all these debris in pitch dark except those creatures.
           <br /><br />
-          <span className={Styles.characterName}> ⫸ Mark:</span> That's really smart thinking, Jona. I wouldn't have thought of that myself. It just shows that two heads are better than one.
+          <span className={Styles.characterName}> ⫸ Mark:</span> That's really smart thinking, Jona. I wouldn't have thought of that myself.
           <br /><br />
           <span className={Styles.characterName}> ⫸ Jona:</span> Let begin our work then before it gets dark.
           <br /><br />
@@ -300,7 +301,7 @@ const SurvivingTogether = () => {
           <br /><br />
           "After a quick look around, Mark returned to Jona with heavy breath and whispered."
           <br /><br />
-          <span className={Styles.characterName}> ⫸ Mark:</span> It's not safe. There are people inside, and they're armed. We need to be careful. It would be better if we change the path and took a longer way to bypass the building.
+          <span className={Styles.characterName}> ⫸ Mark:</span> It's not safe. There are people inside, and they're armed. We need to be careful. It would be better if we change the path and take a longer way to avoid the building.
           <br /><br />
           “Jona agreed with Mark, and the group decided to take a longer route to avoid the building with the armed men. They knew it would take more time, but they preferred to be safe than sorry. But this time luck wasn't with them."
           <br /><br />
@@ -308,7 +309,7 @@ const SurvivingTogether = () => {
           <br /><br />
           <span className={Styles.characterName}> ⫸ Mark:</span> I'll distract the shooter with fire by running the other way. You take everyone out of here quietly without any fire.
           <br /><br />
-          <span className={Styles.characterName}> ⫸ Jona:</span> That's crazy! I'm not leaving you alone with a shooter
+          <span className={Styles.characterName}> ⫸ Jona:</span> That's crazy! I'm not leaving you alone with a shooter.
           <br /><br />
           <span className={Styles.characterName}> ⫸ Mark:</span> We don't have any better ideas, Jona. Trust me, I can handle it. You need to keep everyone else safe.
           <br /><br />
@@ -377,7 +378,7 @@ const SurvivingTogether = () => {
           <br /><br />
           <span className={Styles.characterName}> ⫸ Mark:</span> Well, It was my mistake that I didn't make it in time to you guys. It took me a long to make a fool of those buglers, and it wasn't enough, I found some creatures along the way as well. But there weren't many. Most of the time I found only dead bodies of those creatures. I wonder who had killed them.
           <br /><br />
-          <span className={Styles.characterName}> ⫸ Jona:</span> I and my people group members take full responsibility for that.
+          <span className={Styles.characterName}> ⫸ Jona:</span> I and my group members take full responsibility for that.
           <br /><br />
           <span className={Styles.characterName}> ⫸ Mark:</span> I don't believe you. It can't be.
           <br /><br />

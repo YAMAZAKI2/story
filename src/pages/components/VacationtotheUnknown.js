@@ -23,7 +23,7 @@ const VacationtotheUnknown = () => {
         <p>
 
 
-        As a young adventurer, Shin Took a trip to an unknown land with a group of strangers. There were two kids around the age of 12 or 13 and two women who looked to be around 29 or 30. The protagonist didn't know them, but they seemed familiar, and their enthusiasm for exploring the area was contagious.
+        As a young adventurer, Shin Took a trip to an unknown land with a group of strangers. There were two kids around the age of 12 or 13 and two women who looked to be around 29 or 30. Shin didn't know them, but they seemed familiar, and their enthusiasm for exploring the area was contagious.
             <br /><br />
           During their travels, they stumbled upon a massive cave opening in the mountain. The locals told them that the cave had formed due to sun rays focusing on a single point, creating a unique and beautiful shape. Shin was intrigued and excited to explore further.
           <br /><br />
