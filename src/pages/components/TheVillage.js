@@ -96,7 +96,7 @@ const TheVillage = () => {
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> What was that? Who is that man? How is he even alive with one side of his head is missing?
      <br /><br />
-     <span className={Styles.characterName}> ⫸ Akira:</span> He told you people not to investigate further, didn't he? This is what you get for not listening to him. Now that he's back, It'll be even harder for you to escape this place.
+     <span className={Styles.characterName}> ⫸ Mao:</span> He told you people not to investigate further, didn't he? This is what you get for not listening to him. Now that he's back, It'll be even harder for you to escape this place.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Hey, wait, Who’s he? I have no idea what you are talking about? And I'm not investigating anything.
      <br /><br />
@@ -164,7 +164,7 @@ const TheVillage = () => {
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Olwek, do you know the history of Mukcha and the cave?
      <br /><br />
-     <span className={Styles.characterName}> ⫸ Olwek:</span> Yes, I have heard stories from my grandparents. Around 300 years ago, there was a man named Mukcha who lived in a village with his wife and two daughters. He was considered the wealthiest person in the village, but the villagers believed that he was practicing black magic. They often saw him entering a nearby cave with different animals, which confirmed their suspicions.
+     <span className={Styles.characterName}> ⫸ Olwek:</span> Yes, I have heard stories from my grandparents. Around 300 years ago, there was a man named Mukcha who lived in a village with his wife and two daughters. He was considered the wealthiest person in the village, but the villagers believed that he was practicing black magic. They often saw him entering that cave with different animals, which confirmed their suspicions.
      <br /><br />
      Eventually, the news about Mukcha's black magic practices spread throughout the village, and a group of angry villagers gathered outside his house. Fearing for his safety and the safety of his daughters, Mukcha escaped through a window with his two daughters, leaving his wife behind. Unfortunately, the villagers captured his wife and beat her to death. The next day, they hung her body from a tree and set it on fire.
      <br /><br />
@@ -172,14 +172,13 @@ const TheVillage = () => {
      <br /><br />
      As the villagers entered the cave, Mukcha chanted some mantra and slit the throats of his two daughters, splashing their blood all over the villagers. This horrific act left everyone scared and shocked.
      <br /><br />
-     <span className={Styles.characterName}> ⫸ Mukcha said:</span> You people killed my wife. Without knowing the whole truth. Now you must see the wrath of the dark power upon this village. I cursed you all villagers. You will never be able to leave this village nor this jungle. Those who will try to leave are going to die a miserable death. And those who will set foot in this cave are going to die, and their spirit will be stuck here in this place forever.
+     <span className={Styles.characterName}> ⫸ Mukcha said:</span> You people killed my wife. Without knowing the whole truth. Now you must see the wrath of the dark power upon this village. I cursed you all villagers. You will never be able to leave this village nor this jungle. Those who will try to leave are going to die a miserable death. And those who will set foot in this cave are going to die as well, and their spirit will be stuck here in this place forever.
      <br /><br />
      After finishing his words, Mukcha stabbed himself in the neck. Those who were in the cave started running to get out, but some stayed and ended up dying. Since then, we have been stuck here in this village, bound by the curse.
      <br /><br />
-     <span className={Styles.characterName}> ⫸ Akira:</span> I believe, there is something important in the cave, that's why villagers are not allowed to get inside. We need to find out about it, It can lead to break the curse on villagers.
+     <span className={Styles.characterName}> ⫸ Akira:</span> I believe, there is something important in the cave, that's why villagers are not allowed to get inside. I can go inside to find out the truth.
      <br /><br />
-     <span className={Styles.characterName}> ⫸ Akira:</span> Then we must see the cave. I can go inside to find out the truth.
-     <br /><br />
+   
      <span className={Styles.characterName}> ⫸ Mao:</span> With him out there, we may find it hard to get to the handcar. We can use yourself as a bait to lure that dead man.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> You have a plan in your mind?
@@ -198,7 +197,7 @@ const TheVillage = () => {
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> No, I can't leave until I find the other crew members. Does anyone of you know their whereabouts?
      <br /><br />
-     <span className={Styles.characterName}> ⫸ Villager 2:</span> In total, they were 10 people when they came in the village. Dead man already killed 4 of them brutally. I saw the remaining six of them escape to the mountains.
+     <span className={Styles.characterName}> ⫸ Villager 2:</span> In total, they were 10 people when they came in the village. This dead man already killed 4 of them brutally. I saw the remaining six of them escape to the mountains.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> Mao, do you think we will be able to find them in those mountains.
      <br /><br />
@@ -206,7 +205,7 @@ const TheVillage = () => {
      <br /><br />
      "The other villagers chose not to support Mao and Akira because they were afraid that Mukcha might come after them too. Hence, the two of them got onto a handcar and headed towards the cave."
      <br /><br />
-     <span className={Styles.characterName}> ⫸ Mao:</span> You have to be vigilant when you will be in that cave. Take this lamp and axe with you; I will stay outside waiting for you.
+     <span className={Styles.characterName}> ⫸ Mao:</span> You have to be vigilant when you will be in that cave. Take this lamp and axe with you. I will stay outside waiting for you.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> I need you to make a promise to me. If I don't come out by evening, you must go into the mountains to find the rest of the crew members.
      <br /><br />
@@ -222,7 +221,7 @@ const TheVillage = () => {
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> It's not possible that there's nothing here. Where are the dead bodies of Mukcha and his daughters? Think Akira, think. Maybe they're underground. The only way to find out is by digging.
      <br /><br />
-     "Akira began digging with his axe. The light from his lamp was fading, so he had to work quickly. He dug with all his strength until he felt the axe hit something solid. After carefully removing the soil, he found a skull. Continuing to dig, he discovered the bodies of Mukcha's daughters lying next to each other."
+     "Akira began digging with his axe. The light from his lamp was fading, so he had to work quickly. He dug with all his strength until he felt the axe hit something solid. After carefully removing the soil, he found a skull. Continuing to dig, he discovered the dead bodies of Mukcha's daughters lying next to each other."
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> How is this possible, it’s been 300 years since Mukcha killed his daughters, yet their body just as fresh as they have died some minutes ago. Perhaps these bodies are keeping the curse alive. If I take out these bodies out of the cave to Olwek, He might be able to find the mystery behind it.
      <br /><br />
@@ -259,7 +258,7 @@ const TheVillage = () => {
      <br /><br />
      “As Olwek touched one of the body of Mukcha’s daughter, It began to decay, eventually tuned into dust. And a loud scream came out of the cave.”
      <br /><br />
-     <span className={Styles.characterName}> ⫸ Olwek:</span> I get it now, Mukcha bound this curse to the bodies. As long as their bodies remain intact, the curse will remain in effect. It will free all the spirits from this place, including your sons as well, Mao.
+     <span className={Styles.characterName}> ⫸ Olwek:</span> I get it now, Mukcha bound this curse to the bodies. As long as their bodies remain intact, the curse will remain in effect. It will free all the spirits from this place, including your son's as well, Mao.
      <br /><br />
      “Olwek moved forward his hand to touch the other body, but out of nowhere, an axe appeared and cut his arm into two pieces. He began to scream out loud in pain.”
      <br /><br />
@@ -298,7 +297,7 @@ const TheVillage = () => {
      <br /><br />
      <span className={Styles.characterName}> ⫸ Mao:</span> He must have killed all those film crew members who ran in the mountains.
      <br /><br />
-     <span className={Styles.characterName}> ⫸ Akira:</span> Everyone, I'm scared, and I know you all might be too. But this is a live or die situation. Either we defeat Mukcha and end this curse, or he will destroy us all. I ask you to create a distraction and make a small opening for me to get inside the cave. That's all I ask of you, and I promise I'll do everything in my power to take out Mukcha’s bone out from the cave.
+     <span className={Styles.characterName}> ⫸ Akira:</span> Everyone, I'm scared, and I know you all might be too. But this is a live or die situation. Either we defeat Mukcha and end this curse, or he will destroy us all. I ask you to create a distraction and make a small opening for me to get inside the cave. That's all I ask of you, and I promise I'll do everything in my power to take out Mukcha’s bones out from the cave.
      <br /><br />
      <span className={Styles.characterName}> ⫸ Mao:</span> Did you all hear what he just said? Now let's get down there and end this once and for all.
      <br /><br />
@@ -308,7 +307,7 @@ const TheVillage = () => {
      <br /><br />
      <span className={Styles.characterName}> ⫸ Akira:</span> I never thought, I would do such a thing, forgive me grandpa and grandma. Everyone, get back right now, it's kerosene I'm throwing right at you.
      <br /><br />
-     "He took out his emergency survival lighter and threw it at the film crew members. In an instant, the place caught fire, so did the film crew members. Despite being on fire, they kept fighting until their bodies gave up, and they fell down one by one."
+     "He grabbed matchbox and threw it at the film crew members. In an instant, the place caught fire, so did the film crew members. Despite being on fire, they kept fighting until their bodies gave up, and they fell down one by one."
      <br /><br />
      <span className={Styles.characterName}> ⫸ Mao:</span> Akira, it's your chance. Get inside quickly.
      <br /><br />
